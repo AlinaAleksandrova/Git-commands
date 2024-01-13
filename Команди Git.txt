@@ -1,6 +1,10 @@
 Команды в Git Bash консоли
 clear — Очистить консоль
 
+https://githowto.com/ru/setup
+https://selectel.ru/blog/tutorials/how-to-work-with-branches-in-git-git-branch/
+https://git-scm.com/book/ru/v2/%D0%92%D0%B5%D1%82%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B2-Git-%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%B2%D0%B5%D1%82%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B8-%D1%81%D0%BB%D0%B8%D1%8F%D0%BD%D0%B8%D1%8F
+
 git init - команда создаёт в текущем каталоге новый подкаталог с именем .git, содержащий все необходимые файлы репозитория — структуру Git репозитория.
 git add - добавление в репозиторий
 git commit -m "Initial Commit" - создает комит 
